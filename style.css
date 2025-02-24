@@ -24,6 +24,25 @@
     padding: 20px;
 }
 
+.filter-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.filter{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.product{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+
 /* Estilos generales */
 body {
     font-family: Arial, sans-serif;
